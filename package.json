@@ -1,0 +1,23 @@
+{
+  "name": "qpmall-Sxj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suixiangjun",
+  "license": "ISC",
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "react": "^15.4.2",
+    "react-addons-css-transition-group": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "react-animate.css": "0.0.4",
+    "react-inline-transition-group": "^2.1.5"
+  }
+}
